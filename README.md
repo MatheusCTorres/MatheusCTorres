@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Instagram Badge](https://img.shields.io/badge/-Matheus-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_mateus_k2/)](https://instagram.com/kanna6501)
+[![Instagram Badge](https://img.shields.io/badge/-Matheus-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_mateus_k2/)](https://www.instagram.com/_mateus_k2/)
 
 
 
