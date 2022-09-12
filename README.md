@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me:     
 [![Instagram Badge](https://img.shields.io/badge/-Matheus-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_mateus_k2/)](https://www.instagram.com/_mateus_k2/)
-[![Gmail Badge](https://img.shields.io/badge/-mateusokonofox@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusokonofox@gmail.com)](mailto:mateusokonofox@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusokonofox@gmail.com)](mailto:mateusokonofox@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=portfolio&logoColor=white&link=https://portfolio-blue-rho-40.vercel.app/)](https://portfolio-blue-rho-40.vercel.app/)
 
 
